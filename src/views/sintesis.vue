@@ -2,7 +2,8 @@
 .curso-main-container.pb-3
   BannerInterno(icono="fas fa-sitemap" titulo="Síntesis")
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
-    p.mb-5 A continuación, se muestra un mapa conceptual con los elementos más importantes desarrollados en este componente.
+    p.mb-5 El objetivo del presente componente es destacar la necesidad de lograr el compromiso de transformación social basado en un proceso de concientización, organización y movilización de la gente en la búsqueda del bienestar colectivo. Mediante La Orientación Comunitaria, podemos generar acciones concretas que permitan transformar la realidad social actuando con direccionalidad, para impulsar y conducir todas las decisiones y acciones.
+
 
     .row.justify-content-center
       .col-lg-10.mb-5

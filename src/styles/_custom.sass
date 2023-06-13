@@ -2,18 +2,117 @@
   &-1
     animation: float1 3.5s ease-in-out infinite alternate
     position: absolute
-    top: 40%
-    right: 50%
+    top: 37%
+    right: 75%
   &-2
-    animation: float1 2.8s ease-in-out infinite alternate
+    animation: float2 2.8s ease-in-out infinite alternate
     position: absolute
-    top: 51%
-    right: 30%
+    top: 27%
+    right: 0%
 
+.banner-principal
+  .banner-principal__row
+    .banner-principal__img
+      padding-bottom: 0px !important
+      padding-right: 0px !important
+    .banner-principal__info
+      .banner-principal__componente h1
+        color: #12263F
+      .banner-principal__descripcion p
+        color: #12263F
 
 @keyframes float1
   0%
-    transform: translateY(20px)
-
+    transform: translateY(10px) translateX(5px) rotate(0)
   100%
-    transform: translateY(0px)
+    transform: translateY(0px) translateX(0px) rotate(10deg)
+@keyframes float2
+  0%
+    transform: translateY(10px) translateX(10px) rotate(0)
+  100%
+    transform: translateY(0px) translateX(0px) rotate(-15deg)
+    
+.container-100
+  margin-right: -3rem
+  margin-left: -3rem
+  padding-right: 3rem
+  padding-left: 3rem
+
+.titulo-edit
+  display: flex
+  h3
+    margin-right: auto
+    padding: 1rem 2rem
+    background-color: #3076B6
+    border-bottom-left-radius: 29px
+    border-top-right-radius: 29px
+    color: white
+.list-number
+  background-color: #F6F6F6
+  border-radius: 5px
+  box-shadow: 0 1px 3px 1px #00000010
+  display: flex
+  align-items: center
+  margin-bottom: 1rem
+  width: 100%
+  span
+    height: 50px
+    width: 50px
+    min-width: 50px
+    display: flex
+    justify-content: center
+    align-items: center
+    background-color: #12263F
+    color: white
+    border-radius: 5px
+    font-weight: bold
+    font-size: 24px
+  p
+    padding-left: .7rem
+    margin-bottom: 0
+.img-texto-offset
+  position: relative
+  .container-offset
+    position: relative
+    margin-top: -7rem
+    background: linear-gradient(0deg, rgba(222,222,222,1) 0%, rgba(255,255,255,1) 50%, rgba(222,222,222,1) 100%)
+    padding: .8rem 2rem
+    border-radius: 20px
+  @media (max-width: 991px)
+    .container-offset
+      margin-top: 0
+.slydera-edit
+  .slyder-a
+    .slyder-a__tipo-b
+      .hide
+        opacity: 0 !important
+      .slyder-a__btn--atrs
+        background-color: #FFA031
+        opacity: 1
+      .slyder-a__bullets
+        .slyder-a__bullets__item
+          border: none
+        .slyder-a__bullets__item--active
+          background-color: #0098E8
+      .slyder-a__btn--sigt
+        background-color: #FFA031
+        opacity: 1
+.barra-avance--open
+  .barra-avance__boton--regresar
+    i, span
+      color: #111e61 !important
+    &:hover
+      i, span
+        color: white !important
+.contenedor-principal
+  .seccion-principal 
+    .curso-main-container
+      .banner-interno
+        .banner-interno__titulo
+          .banner-interno__titulo__icono i, h2
+            color: black
+.acordion
+  .acordion__activo
+    background-color: #EDF7FE
+
+
