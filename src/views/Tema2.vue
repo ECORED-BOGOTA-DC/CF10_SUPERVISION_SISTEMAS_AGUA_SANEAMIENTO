@@ -5,7 +5,7 @@
     .titulo-principal.color-acento-contenido(data-aos="fade-right")
       .titulo-principal__numero
         span 2
-      h1 Protocolos de laboratorio
+      h1 Estrategias de comunicación con actores
     
     .container-100.d-flex.flex-wrap.mb-5(style="background: linear-gradient(0deg, rgba(255,255,255,1) 0%, rgba(217,245,254,1) 50%, rgba(255,255,255,1) 100%);")
       .bloque-texto-g.p-3.p-sm-4.p-md-5.col-xl-10.mx-auto
@@ -23,12 +23,12 @@
     .titulo-segundo.color-acento-botones
       h2#t_2_1 2.1 Procesos de participación ciudadana
 
-    .container-100.d-flex.flex-wrap.align-items-center(style="background: linear-gradient(0deg, rgba(255,255,255,1) 0%, rgba(217,245,254,1) 50%, rgba(255,255,255,1) 100%);")
+    .container-100.d-flex.flex-wrap.align-items-center.mb-5(style="background: linear-gradient(0deg, rgba(255,255,255,1) 0%, rgba(217,245,254,1) 50%, rgba(255,255,255,1) 100%);")
       img.col-lg-5.mb-4.mb-lg-auto(src="@/assets/curso/temas/tema2/img-2.svg" data-aos="fade-right")
       p.col-lg-7.ps-lg-4(data-aos="fade-left") En todos los procesos de orientación a comunidades se utiliza mucho el término participación, pues es un eje estratégico dado que muchos proyectos fracasan o no cumplen el 100% de las metas por falta de participación real de las personas o actores involucrados.
         br
         br
-        |En el documento 80 herramientas para el desarrollo participativo Geifuls (2009) describe que “la participación es un proceso mediante el cual la gente puede ganar más o menos grados de participación en el proceso de desarrollo”. (p.1). 
+        |En el documento 80 herramientas para el desarrollo participativo Geifuls (2009) describe que “la participación es un proceso mediante el cual la gente puede ganar más o menos grados de participación en el proceso de desarrollo” (p.1). 
 
     .titulo-edit.mb-5
       h3 Procesos de participación ciudadana comunitaria 
@@ -62,7 +62,7 @@
     p.mb-5(data-aos="fade-right") Para hablar de los procesos de participación ciudadana es importante primero, referenciar los derechos y deberes de los participantes en las distintas modalidades de participación ciudadana.
       br
       br
-      |Teniendo en cuenta la Carta iberoamericana de participación ciudadana en la gestión pública (2009) se pueden resaltar: 
+      |Teniendo en cuenta la <em>Carta iberoamericana de participación ciudadana en la gestión pública</em> (2009) se pueden resaltar: 
 
     .tarjeta--container.row.mb-5
       .col-md.tarjeta.p-5(style="background-color: #9CD1F2")
@@ -124,7 +124,7 @@
     .titulo-edit.mb-5
       h3 Principios de la participación ciudadana
     
-    p.mb-5(data-aos="fade-right") Son los rectores del proceso de participación ciudadana, de acuerdo con el Ministerio de Salud y Protección Social (2016), en su Manual metodológico de participación ciudadana los principios elementales son:
+    p.mb-5(data-aos="fade-right") Son los rectores del proceso de participación ciudadana, de acuerdo con el Ministerio de Salud y Protección Social (2016), en su <em>Manual metodológico de participación ciudadana</em> los principios elementales son:
 
 
 
@@ -174,14 +174,14 @@
         p.mb-0.col-md.ps-md-4 Son acciones para la protección de los derechos e intereses colectivos, relacionados con el patrimonio, el espacio, la seguridad y la salubridad pública, la moral administrativa, el ambiente, la libre competencia económica y otros de similar naturaleza.
 
     .cajon.color-acento-botones.p-4.mb-4.col-lg-10.col-xl-8.mx-auto.mb-5(style="background-color: #98D8D7")
-      p.mb-0(data-aos="fade-left") <b>Importante:</b> La legalidad de las veedurías se verifica con la inscripción ante la Personería o ante la Cámara de Comercio, para este caso la veeduría se inscribe como entidad sin ánimo de lucro y se constituye a través de un acta de asamblea de constitución (Ley 850, 2003).
+      p.mb-0(data-aos="fade-left") <b>Importante:</b> la legalidad de las veedurías se verifica con la inscripción ante la Personería o ante la Cámara de Comercio, para este caso la veeduría se inscribe como entidad sin ánimo de lucro y se constituye a través de un acta de asamblea de constitución (Ley 850, 2003).
 
     .img-texto-offset.mb-5
       img.mb-3.mb-lg-0.d-none.d-md-flex(src="@/assets/curso/temas/tema2/img-17.jpg")
       .container-offset.col-lg-10.mx-auto
         p(data-aos="fade-right") Ahora bien, los mecanismos de participación ciudadana tienen dos orígenes: popular o de autoridad pública. Entre los mecanismos de origen popular se encuentran la iniciativa popular legislativa y normativa ante las corporaciones públicas, el cabildo abierto y la revocatoria del mandato; por otro lado, de origen en autoridad pública están el plebiscito que puede tener origen en la autoridad pública o popular, el referendo y la consulta popular (Instituto Distrital de la Participación y Acción Comunal, 2007).
 
-    p.mb-5 De acuerdo con el IDPAC (2007) se pueden definen de la siguiente forma:
+    p.mb-5 De acuerdo con el IDPAC (2007) se pueden definir de la siguiente forma:
 
     .tarjeta.tarjeta--azul.p-4.p-md-5.mb-5(style="background-color: #FFF0DF")
       SlyderA(tipo="b")
@@ -238,12 +238,12 @@
       p.col-md.mb-0.ps-md-4(data-aos="fade-left") Dentro de los procesos de orientación de comunidades una parte fundamental se relaciona al manejo de indicadores de diferente índole como de percepción y desempeño, estos instrumentos forman parte de la última fase de la educación ambiental denominada monitoreo y evaluación. 
 
     .cajon.color-acento-botones.p-4.mb-4.col-lg-10.col-xl-8.mx-auto.mb-5(style="background-color: #98D8D7")
-      p.mb-0(data-aos="fade-left") El monitoreo de acuerdo con el Ministerio de Salud y Protección Social (2016) en su documento Manual metodológico de participación ciudadana se define como un examen continuo de los procesos y la generación de productos de un programa durante la ejecución del mismo. Su propósito es ajustar sobre la marcha, posibles cambios sobre los aspectos operacionales del programa monitoreado. El monitoreo usualmente genera datos de forma periódica que pueden ser usados para el seguimiento o la evaluación.
+      p.mb-0(data-aos="fade-left") El monitoreo de acuerdo con el Ministerio de Salud y Protección Social (2016) en su documento <em>Manual metodológico de participación ciudadana</em> se define como un examen continuo de los procesos y la generación de productos de un programa durante la ejecución del mismo. Su propósito es ajustar sobre la marcha, posibles cambios sobre los aspectos operacionales del programa monitoreado. El monitoreo usualmente genera datos de forma periódica que pueden ser usados para el seguimiento o la evaluación.
 
     .titulo-edit.mb-5
       h3 Indicador de desempeño
     
-    p.mb-4(data-aos="fade-right") De acuerdo con el documento de Lineamientos metodológicos para la construcción de indicadores de desempeño de la CEPAL el indicador de desempeño es una herramienta que entrega información cuantitativa respecto al logro o resultado de los objetivos de la institución, cubriendo aspectos cuantitativos o cualitativos, a través del indicador de desempeño se pueden tomar decisiones respecto a la gestión de los recursos.
+    p.mb-4(data-aos="fade-right") De acuerdo con el documento de <em>Lineamientos metodológicos para la construcción de indicadores de desempeño</em> de la CEPAL el indicador de desempeño es una herramienta que entrega información cuantitativa respecto al logro o resultado de los objetivos de la institución, cubriendo aspectos cuantitativos o cualitativos, a través del indicador de desempeño se pueden tomar decisiones respecto a la gestión de los recursos.
       br
       br
       |Es necesario tener seguimiento de los objetivos a través de los indicadores de desempeño, ya que estos ofrecen ventajas considerables en la toma de decisión teniendo en cuenta que:
@@ -276,7 +276,7 @@
               img.mx-auto(src='@/assets/curso/temas/tema2/img-28.svg' data-aos="fade-left" style="max-width: 426px")
         .row.align-items-center
           .col-md-6.mb-4.mb-md-0(data-aos="fade-right")
-            p Los legisladores y los directores requieren información estratégica sobre la gestión de la institución (resultados finales e impacto), mientras que los gerentes de divisiones, departamentos o programas y su staff requieren detalles sobre la provisión de insumos, las actividades, los productos finales y los resultados intermedios.
+            p Los legisladores y los directores requieren información estratégica sobre la gestión de la institución (resultados finales e impacto), mientras que los gerentes de divisiones, departamentos o programas y su <em>staff</em> requieren detalles sobre la provisión de insumos, las actividades, los productos finales y los resultados intermedios.
           .col-md-6
             figure
               img.mx-auto(src='@/assets/curso/temas/tema2/img-29.svg' data-aos="fade-left" style="max-width: 515px")
@@ -328,9 +328,9 @@
             |• Calidad es una dimensión de la eficacia, pero por su importancia se la distingue con nombre propio. 
             br
             br
-            |Dentro de los indicadores de calidad se encuentran los denominados indicadores de percepción entre los cuales se encuentran el grado de satisfacción de los usuarios, el tiempo de respuesta a requerimientos de los beneficiarios, entre otros. 
+            |Dentro de los indicadores de calidad se encuentran los denominados indicadores de percepción, entre los cuales se encuentran el grado de satisfacción de los usuarios, el tiempo de respuesta a requerimientos de los beneficiarios, entre otros. 
 
-    p.mb-5(data-aos="fade-right") El indicador de desempeño es una herramienta que entrega información cuantitativa respecto al logro o resultado de los objetivos de la institución, cubriendo aspectos cuantitativos o cualitativos, a través del indicador de desempeño se pueden tomar decisiones respecto a la gestión de los recursos. Seguidamente se describen los pasos para elaborar correctamente un indicador de desempeño: 
+    p.mb-5(data-aos="fade-right") El indicador de desempeño es una herramienta que entrega información cuantitativa respecto al logro o resultado de los objetivos de la institución, cubriendo aspectos cuantitativos o cualitativos, a través del indicador de desempeño se pueden tomar decisiones respecto a la gestión de los recursos. Seguidamente, se describen los pasos para elaborar correctamente un indicador de desempeño: 
 
     .container-100.d-flex.flex-wrap(style="background: linear-gradient(0deg, rgba(255,255,255,1) 0%, rgba(217,245,254,1) 50%, rgba(255,255,255,1) 100%);")
       ol.lista-ol--cuadro.lista-ol--separador.col-lg.order-2.order-lg-1.pe-lg-4

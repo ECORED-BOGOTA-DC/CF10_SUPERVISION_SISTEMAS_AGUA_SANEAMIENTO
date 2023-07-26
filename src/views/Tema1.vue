@@ -9,7 +9,7 @@
     
     .container-100.d-flex.flex-wrap(style="background: linear-gradient(0deg, rgba(255,255,255,1) 0%, rgba(217,245,254,1) 50%, rgba(255,255,255,1) 100%);")
       img.col-lg-5.mb-4.mb-lg-auto(src="@/assets/curso/temas/tema1/img-1.svg" data-aos="fade-right")
-      p.col-lg-7.ps-lg-4(data-aos="fade-left") De acuerdo con la Corporación Autónoma Regional de Cundinamarca CAR (2014), en su documento Guía metodológica y pedagógica como soporte del proceso de educación ambiental, se encuentran los diferentes actores sociales, que son aquellos que se consideran responsables del empoderamiento en sus comunidades y entornos locales, encargados de dirigir y organizar campañas o estrategias ambientales.
+      p.col-lg-7.ps-lg-4(data-aos="fade-left") De acuerdo con la Corporación Autónoma Regional de Cundinamarca CAR (2014), en su documento <em>Guía metodológica y pedagógica</em> como soporte del proceso de educación ambiental, se encuentran los diferentes actores sociales, que son aquellos que se consideran responsables del empoderamiento en sus comunidades y entornos locales, encargados de dirigir y organizar campañas o estrategias ambientales.
         br
         br
         |Generalmente, son grupos compuestos principalmente por los tomadores de decisiones municipales como los Comités Interinstitucionales de Educación Ambiental (CIDEAS), las empresas de servicios públicos, los acueductos municipales o veredales, y los dinamizadores ambientales seleccionados y capacitados previamente por los líderes del proceso, que pueden pertenecer, por ejemplo, al SENA, a la comunidad educativa, a los jóvenes pregoneros responsables de formar y acompañar el proceso implementado por los niños y los hogares, y quienes posteriormente gestionan el conocimiento para que otros usuarios lo repliquen, además del grupo conformado por los niños defensores del recurso natural a trabajar, que implementará el proceso en cada uno de sus hogares (CAR, 2014, p.17).
@@ -19,7 +19,7 @@
     .titulo-segundo.color-acento-botones
       h2#t_1_1 1.1 Actores sociales
     
-    p.mb-5(data-aos="fade-right") De acuerdo con la CAR (2014), en su documento Guía metodológica y pedagógica los actores sociales serán la base y el eje dinamizador para el desarrollo eficiente e integral en cada una de las etapas de planeación, ejecución, seguimiento, monitoreo y evaluación, mejoramiento y continuidad, de acuerdo con los roles definidos. 
+    p.mb-5(data-aos="fade-right") De acuerdo con la CAR (2014), en su documento <em>Guía metodológica y pedagógica</em>, los actores sociales serán la base y el eje dinamizador para el desarrollo eficiente e integral en cada una de las etapas de planeación, ejecución, seguimiento, monitoreo y evaluación, mejoramiento y continuidad, de acuerdo con los roles definidos. 
       br
       br
       |Dentro de los actores sociales que participan en el proceso educativo se encuentran: 
@@ -47,14 +47,14 @@
               p.text-white Tiene como función principal formar, acompañar y multiplicar el proceso en los hogares de los usuarios del servicio de acueducto, participando en las etapas de ejecución y evaluación de resultados. Para la selección de los dinamizadores se debe tener en cuenta:
                 br
                 br
-                |El grupo de dinamizadores puede estar conformado por representantes del acueducto, docentes y/o estudiantes de las instituciones educativas o universidades, al igual que por usuarios del acueducto que quieran participar y que sean previamente seleccionados por la empresa de servicios públicos. Deben tener conocimiento previo en temas ambientales. De este grupo pueden formar parte estudiantes de universidades o practicantes del SENA, grupos organizados de jóvenes ambientales o grupos formados por la CAR, entre otros 
+                |El grupo de dinamizadores puede estar conformado por representantes del acueducto, docentes y/o estudiantes de las instituciones educativas o universidades, al igual que por usuarios del acueducto que quieran participar y que sean previamente seleccionados por la empresa de servicios públicos. Deben tener conocimiento previo en temas ambientales. De este grupo pueden formar parte estudiantes de universidades o practicantes del SENA, grupos organizados de jóvenes ambientales o grupos formados por la CAR, entre otros.
 
     p.mb-5(data-aos="fade-right") Dentro de los actores sociales se encuentran:
 
     .titulo-edit.mb-5
       h3 Actores clave
 
-    p.mb-5(data-aos="fade-right") De acuerdo con Zamalloa (2005) en su Manual 5, guías metodológicas para la gestión ambiental dentro de los actores se pueden encontrar actores clave como:
+    p.mb-5(data-aos="fade-right") De acuerdo con Zamalloa (2005) en su <em>Manual 5, guías metodológicas para la gestión ambiental</em> dentro de los actores se pueden encontrar actores clave como:
 
     .row.mb-5
       .col-lg-10.mx-auto
@@ -85,11 +85,11 @@
             img(src='@/assets/curso/temas/tema1/tj-4.svg' style="max-width: 131px" data-aos="fade-right")
           .tarjeta.tarjeta--azul.d-flex.align-items-center.my-auto(style="background-color: #BBE5FF; min-height: 100px")
             .p-4(data-aos="fade-left")
-              p.mb-0 Lideres Locales
+              p.mb-0 Líderes locales.
 
     .titulo-edit.mb-5
-      h3 Actores territoriales
-    
+      h3.mb-0 Actores territoriales
+    p.mb-5 Es importante aclarar que a nivel territorial existe también una clasificación de actores que deben ser conocidos, analizados e identificados, dentro de los cuales se puede destacar de acuerdo con Núñez (s.f.) en su documento Sostenibilidad y actores sociales en la protección del medio ambiente:
     .row.mb-5
       .col-lg-10.mx-auto
         .tarjeta-avatar-b.mb-2
@@ -125,13 +125,13 @@
 
     .d-flex.flex-wrap.p-3.mb-5(style="background-color: #F0FBFF")
       img.mb-4.mb-md-auto(src='@/assets/curso/temas/tema1/img-4.svg' style="max-width: 88px")
-      p.col-md.mb-0.ps-md-4(data-aos="fade-left") <b>Elementos pedagógicos:</b>
+      p.col-md.mb-0.ps-md-4(data-aos="fade-left") <b>Elementos pedagógicos</b>
         br
         |Son todas las condiciones y programas; planeaciones, estrategias didácticas activas, experiencias pedagógicas y administrativas, evidencias de conocimiento, entre otras, que se integran para desarrollar una temática.
     .titulo-edit.mb-5
       h3 Estrategias didácticas activas
 
-    p.mb-5(data-aos="fade-right") De acuerdo con Martínez y Ciudad-Real (2013), en su Manual de estrategias didácticas activas, el concepto de estrategias didácticas fue expuesto por Velasco y Mosquera (s.f.) en su documento Estrategias didácticas para el aprendizaje colaborativo Paiep, allí se define la estrategia didáctica activa como la selección de actividades y prácticas pedagógicas en diferentes momentos formativos, métodos y recursos en los procesos de enseñanza y aprendizaje.
+    p.mb-5(data-aos="fade-right") De acuerdo con Martínez y Ciudad-Real (2013), en su <em>Manual de estrategias didácticas activas</em>, el concepto de estrategias didácticas fue expuesto por Velasco y Mosquera (s.f.) en su documento <em>Estrategias didácticas para el aprendizaje colaborativo Paiep</em>, allí se define la estrategia didáctica activa como la selección de actividades y prácticas pedagógicas en diferentes momentos formativos, métodos y recursos en los procesos de enseñanza y aprendizaje.
 
     .container-100.d-flex.flex-wrap.mb-5(style="background: linear-gradient(0deg, rgba(255,255,255,1) 0%, rgba(217,245,254,1) 50%, rgba(255,255,255,1) 100%);")
       .bloque-texto-g.p-3.p-sm-4.p-md-5.col-xl-10.mx-auto
@@ -140,9 +140,9 @@
           style="overflow: hidden; border-radius: 10px;"
         )
         .bloque-texto-g__texto.p-4.tarjeta(style="background-color: #DEE4F0" data-aos="fade-left")
-          p.mb-0 Asimismo, el Manual de estrategias didácticas activas manifiesta que las estrategias didácticas contemplan las estrategias de aprendizaje y de enseñanza. Por esto, las estrategias de aprendizaje consisten en un procedimiento o conjunto de pasos o habilidades que un estudiante adquiere y emplea de forma intencional como instrumento flexible para aprender significativamente y solucionar problemas y demandas académicas. Por su parte, las estrategias de enseñanza son todas aquellas ayudas planteadas por el docente, que se proporcionan al estudiante para facilitar un procesamiento más profundo de la información.
+          p.mb-0 Asimismo, el <em>Manual de estrategias didácticas activas</em> manifiesta que las estrategias didácticas contemplan las estrategias de aprendizaje y de enseñanza. Por esto, las estrategias de aprendizaje consisten en un procedimiento o conjunto de pasos o habilidades que un estudiante adquiere y emplea de forma intencional como instrumento flexible para aprender significativamente y solucionar problemas y demandas académicas. Por su parte, las estrategias de enseñanza son todas aquellas ayudas planteadas por el docente, que se proporcionan al estudiante para facilitar un procesamiento más profundo de la información.
 
-    p.mb-5(data-aos="fade-right") Se invita a conocer este Manual de estrategias didácticas:
+    p.mb-5(data-aos="fade-right") Se invita a conocer este <em>Manual de estrategias didácticas</em>:
 
     .tarjeta.color-acento-contenido.p-3
       .row.justify-content-around.align-items-center
@@ -151,10 +151,10 @@
         .col
           .row.justify-content-between.align-items-center
             .col.mb-3.mb-sm-0(data-aos="fade-left")
-              h3.text-white.mb-1(style="color: #FCC02D") Manual de estrategias didácticas
-              p.text-white Se invita a conocer este Manual de estrategias didácticas, por lo que le invitamos a descargar el documento.
+              h3.text-white.mb-1(style="color: #FCC02D") <em>Manual de estrategias didácticas</em>
+              p.text-white Se invita a conocer este <em>Manual de estrategias didácticas</em>, por lo que le invitamos a descargar el documento.
             .col-sm-auto
-              a.boton.color-primario(href="http://biblioteca.SENA.edu.co/paginas/bases.html" target="_blank" style="min-width: ")
+              a.boton.color-primario(href="https://www.orientacionandujar.es/wp-content/uploads/2015/03/Manual-estrategias-didacticas.pdf" target="_blank" style="min-width: ")
                 span.pe-3 Descargar
                 img(src="@/assets/curso/temas/img-3.svg" style="max-width: 15px")
     Separador
@@ -199,9 +199,9 @@
     .bloque-texto-d.p-4.bloque-texto-d-edit.mb-5.col-xl-10.mx-auto
       .bloque-texto-d__texto.mb-2.d-md-flex
         i.fas.fa-quote-left(style="color: #3BC192")
-        p.text-regular(data-aos="fade-right") En este caso se busca triangular o recolectar información desde los diferentes puntos de vista representativos de los diferentes actores involucrados, específicamente sobre una problemática, usualmente son entrevistas semiestructuradas, que pueden ser usadas en cualquier fase del proyecto de educación ambiental; sin embargo, esta estrategia puede estar inmersa dentro de otras metodologías, no es exclusiva, ni limitante 
+        p.text-regular(data-aos="fade-right") En este caso se busca triangular o recolectar información desde los diferentes puntos de vista representativos de los diferentes actores involucrados, específicamente sobre una problemática, usualmente son entrevistas semiestructuradas, que pueden ser usadas en cualquier fase del proyecto de educación ambiental; sin embargo, esta estrategia puede estar inmersa dentro de otras metodologías, no es exclusiva, ni limitante.
       .bloque-texto-d__autor.d-flex.justify-content-end
-        .h5.mb-0 - Geifuls, 2009, p.13).
+        .h5.mb-0 - (Geifuls, 2009, p.13).
         i.fas.fa-quote-right(style="color: #3BC192")
 
     .titulo-edit.mb-5
@@ -214,7 +214,7 @@
           img(src='@/assets/curso/temas/tema1/img-9.png' style="max-width: 505px" data-aos="fade-right")
       .col-lg-7.ps-lg-4
         .cajon.color-acento-botones.p-4.mb-4(style="background-color: #98D8D7")
-          p.mb-0(data-aos="fade-left") En esta estrategia de acuerdo con Geifuls (2009) se busca recolectar información general o específica mediante diálogos con individuos (informantes clave), grupos familiares (familias representativas) o grupos enfocados. La técnica de diálogo semiestructurado busca evitar algunos de los efectos negativos de los cuestionarios formales como son: temas cerrados (no hay posibilidad de explorar otros temas), falta de diálogo, falta de adecuación a las percepciones de las personas. “Su aplicación es muy amplia, estudios sociales generales, estudios específicos, estudios de caso, comprobación de información de otras fuentes, etc.” (p. 25). 
+          p.mb-0(data-aos="fade-left") En esta estrategia, de acuerdo con Geifuls (2009) se busca recolectar información general o específica mediante diálogos con individuos (informantes clave), grupos familiares (familias representativas) o grupos enfocados. La técnica de diálogo semiestructurado busca evitar algunos de los efectos negativos de los cuestionarios formales como son: temas cerrados (no hay posibilidad de explorar otros temas), falta de diálogo, falta de adecuación a las percepciones de las personas. “Su aplicación es muy amplia, estudios sociales generales, estudios específicos, estudios de caso, comprobación de información de otras fuentes, etc.” (p. 25). 
         p La diferencia entre un diálogo y una entrevista es que en el primero se busca un intercambio y la fluidez de este, lo que puede generar mayor indagación, aunque no esté planeado.
     p.mb-5(data-aos="fade-right") Para llevarlo a cabo se debe tener en cuenta:
 
@@ -246,7 +246,7 @@
           li.d-flex
             .mb-0.lista-ol--cuadro__vineta(style="background-color: transparent")
               img(src="@/assets/curso/temas/img-4.svg" style="max-width: 20px")
-            | Para evaluar la factibilidad de sugerencias prácticas (Geifuls, 2009,).
+            | Para evaluar la factibilidad de sugerencias prácticas (Geifuls, 2009).
 
     .titulo-edit.mb-5
       h3 Diálogo con miembros del hogar
@@ -307,7 +307,7 @@
               h3.text-white.mb-1(style="color: #FCC02D") 80 herramientas para el desarrollo participativo
               p.text-white Para ampliar la información sobre las estrategias se puede consultar el documento.
             .col-sm-auto
-              a.boton.color-primario(href="http://biblioteca.SENA.edu.co/paginas/bases.html" target="_blank" style="min-width: ")
+              a.boton.color-primario(href="https://ejoventut.gencat.cat/permalink/aac2bb0c-2a0c-11e4-bcfe-005056924a59" target="_blank" style="min-width: ")
                 span.pe-3 Descargar
                 img(src="@/assets/curso/temas/img-3.svg" style="max-width: 15px")
 
@@ -316,7 +316,7 @@
         figure
           img(src='@/assets/curso/temas/tema1/img-15.svg' style="max-width: 505px" data-aos="fade-right")
       .col-lg-7.ps-lg-4
-        p.mb-4(data-aos="fade-left") Comprender lo que abarca la comunicación ambiental puede ser algo complejo debido a que hay que tener en cuenta diferentes campos, los consultores educativos ambientales en su documento Plan de comunicación ambiental para la conservación de los arrecifes de coral de Puerto Rico manifiestan que establecer una definición del concepto comunicación ambiental es difícil precisamente por la amplitud de su alcance y las múltiples facetas que incluye; pero en esos elementos está el objetivo principal de fomentar en los ciudadanos el entendimiento de los procesos que ocurren en la naturaleza.
+        p.mb-4(data-aos="fade-left") Comprender lo que abarca la comunicación ambiental puede ser algo complejo debido a que hay que tener en cuenta diferentes campos, los consultores educativos ambientales en su documento <em>Plan de comunicación ambiental para la conservación de los arrecifes de coral de Puerto Rico</em> manifiestan que establecer una definición del concepto comunicación ambiental es difícil precisamente por la amplitud de su alcance y las múltiples facetas que incluye; pero en esos elementos está el objetivo principal de fomentar en los ciudadanos el entendimiento de los procesos que ocurren en la naturaleza.
 
     Separador
 
@@ -344,16 +344,16 @@
           .row(titulo="Medios tradicionales")
             p Los medios tradicionales de comunicación masiva, en los que se incluyen la radio, la televisión, los periódicos y el cine, son estrategias efectivas para comunicarse con el público en general. Tienen un gran reconocimiento, debido a que es la estrategia que se ha utilizado ampliamente durante muchos años. 
           .row(titulo="Internet")
-            p Representa, en este momento, una estrategia muy efectiva para establecer comunicación con el público y promover la conservación de arrecifes de coral. Además de la página oficial de la idea que se quiera comunicar existe la posibilidad de abrir redes sociales como Facebook, Twitter, Instagram, blogs, YouTube, TikTok, entre otras, mediante las cuales la información pertinente se disemina más rápido y con mayor amplitud. 
+            p Representa, en este momento, una estrategia muy efectiva para establecer comunicación con el público y promover la conservación de arrecifes de coral. Además de la página oficial de la idea que se quiera comunicar, existe la posibilidad de abrir redes sociales como Facebook, Twitter, Instagram, blogs, YouTube, TikTok, entre otras, mediante las cuales la información pertinente se disemina más rápido y con mayor amplitud. 
 
     .d-flex.flex-wrap.align-items-center.p-3.mb-5(style="background-color: #F0FBFF")
       img.mb-4.mb-md-auto(src='@/assets/curso/temas/tema1/img-17.svg' style="max-width: 88px")
       p.col-md.mb-0.ps-md-4(data-aos="fade-left") En el proceso de trabajo con comunidades el momento de sensibilización a las personas es elemental para garantizar, no solo que las bases del proyecto se encuentran cimentadas, sino que a su vez el proceso de transformación requerido alcance la meta propuesta.
 
-    p.mb-5(data-aos="fade-right") De acuerdo con Castro y otros (2007),  en su documento Estrategia de educación ambiental para el conocimiento, el uso  y la conservación de la biodiversidad en Colombia del Instituto de Investigaciones de Recursos Biológicos Alexander Von Humboldt la sensibilización es un proceso que debe darse desde el primer momento con la comunidad y debe mantenerse en todo el proceso de educación ambiental, en otras palabras, desde esa etapa se hace referencia al descubrimiento de la realidad que se quiere transformar (diagnóstico); al descubrimiento de los actores, con sus fortalezas, debilidades, competencias y responsabilidades; y al establecimiento del proceso que se va a emprender.
+    p.mb-5(data-aos="fade-right") De acuerdo con Castro y otros (2007), en su documento <em>Estrategia de educación ambiental para el conocimiento, el uso  y la conservación de la biodiversidad en Colombia</em> del Instituto de Investigaciones de Recursos Biológicos Alexander Von Humboldt, la sensibilización es un proceso que debe darse desde el primer momento con la comunidad y debe mantenerse en todo el proceso de educación ambiental, en otras palabras, desde esa etapa se hace referencia al descubrimiento de la realidad que se quiere transformar (diagnóstico); al descubrimiento de los actores, con sus fortalezas, debilidades, competencias y responsabilidades; y al establecimiento del proceso que se va a emprender.
 
     .cajon.color-acento-botones.p-4.mb-5.col-lg-10.col-xl-8.mx-auto(style="background-color: #98D8D7")
-      p.mb-0(data-aos="fade-right") De acuerdo con el Sumario sensibilización ambiental de la red de autoridades ambientales, el objetivo de la sensibilización es implicar a los ciudadanos en las actividades ambientales y modificar sus comportamientos mediante la capacitación para la sostenibilidad ambiental.   
+      p.mb-0(data-aos="fade-right") De acuerdo con el <em>Sumario sensibilización ambiental</em> de la red de autoridades ambientales, el objetivo de la sensibilización es implicar a los ciudadanos en las actividades ambientales y modificar sus comportamientos mediante la capacitación para la sostenibilidad ambiental.   
     p.mb-5 Para este eje se prevén dos medidas específicas: 
     
     img.mb-5.mb-md-auto.d-none.d-md-flex.mx-auto(src='@/assets/curso/temas/tema1/img-18.svg' style="max-width: 820px" data-aos="fade-right")
@@ -382,7 +382,7 @@
           |Seguido a esto se relacionan los problemas ambientales de la sociedad actual con el desarrollo de las ciudades, se describe la actuación que tienen las administraciones públicas, las funciones de autoridades ambientales, los ministerios y otras instituciones relacionadas con el medioambiente, así como el papel de la sociedad en dichos problemas ambientales. 
           br
           br
-          |La red de autoridades ambientales en el Sumario de sensibilización ambiental propone, de igual manera, diferentes estrategias de sensibilización de acuerdo con los niveles que se quieran llegar, desde un nivel amplio a un nivel específico.
+          |La red de autoridades ambientales en el <em>Sumario de sensibilización ambiental</em> propone, de igual manera, diferentes estrategias de sensibilización de acuerdo con los niveles que se quieran llegar, desde un nivel amplio a un nivel específico.
           br
           br
           |Se tienen las siguientes estrategias:
@@ -397,10 +397,10 @@
         .tarjeta.p-4(style="background-color: #F6F6F6" titulo="Desarrollo de un módulo")
           h3 Desarrollo de un módulo de sensibilización ambiental general
           p Debe contener información básica, de fácil comprensión y contar con integración en todos los programas de formación ocupacional, es decir, agricultura, industria, energía, transporte y turismo, así como para el sector de la pesca y la acuicultura. En este desarrollo se deben tener en cuenta también todos los niveles educativos.
-        .tarjeta.p-4(style="background-color: #F6F6F6" titulo="Desarrollo de un módulo")
+        .tarjeta.p-4(style="background-color: #F6F6F6" titulo="Elaboración de módulos")
           h3 Elaboración de módulos de sensibilización específicos
           p Para las áreas específicas del medioambiente tales como residuos, aguas, contaminación atmosférica, biodiversidad, medio marino, etc. En este nivel se puede utilizar un lenguaje técnico, manteniendo la comprensión del lector común.
-        .tarjeta.p-4(style="background-color: #F6F6F6" titulo="Desarrollo de un módulo")
+        .tarjeta.p-4(style="background-color: #F6F6F6" titulo="Desarrollo de acciones")
           h3 Desarrollo de acciones de apoyo al empleo en el ámbito del medioambiente
           p Trabajo directo con profesionales ambientales, promotores ambientales y personal relacionado.
 </template>
