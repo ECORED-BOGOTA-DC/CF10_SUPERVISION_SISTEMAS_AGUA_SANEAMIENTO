@@ -195,7 +195,7 @@ export default {
       referencia:
         'Corporación Autónoma Regional de Cundinamarca. (2014). <em>Guía metodológica y pedagógica como soporte del proceso de educación ambiental.</em> CAR.',
       link:
-        'http://sie.car.gov.co/bitstream/handle/20.500.11786/35887/28290.pdf?sequence=1&isAllowed=y',
+        'https://sie.car.gov.co/bitstream/handle/20.500.11786/35887/28290.pdf?sequence=1&isAllowed=y',
     },
     {
       referencia:
