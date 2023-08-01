@@ -110,11 +110,11 @@ export default {
         titulo: 'Descargar PDF',
         download: 'downloads/921200_CF10_DU.pdf',
       },
-      // {
-      //   icono: 'fas fa-download',
-      //   titulo: 'Descargar material',
-      //   download: 'downloads/material.zip',
-      // },
+      {
+        icono: 'fas fa-download',
+        titulo: 'Descargar material',
+        download: 'downloads/material.zip',
+      },
       {
         icono: 'far fa-registered',
         titulo: 'Créditos',
@@ -271,6 +271,47 @@ export default {
           cargo: 'Asesora Metodológica',
           centro:
             'Centro de Gestión de Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
+        },
+        {
+          nombre: 'Xiomara Becerra Aldana',
+          cargo: 'Instructora ambiental',
+          centro: 'Centro de Gestión Industrial',
+        },
+        {
+          nombre: 'Jesús Ricardo Arias Munévar',
+          cargo: 'Instructora ambiental',
+          centro: 'Centro de Gestión Industrial',
+        },
+        {
+          nombre: 'Javier Ricardo Luna Pineda',
+          cargo: 'Diseñador instruccional',
+          centro: 'Centro para la Industria de la Comunicación Gráfica',
+        },
+        {
+          nombre: 'Silvia Milena Sequeda Cárdenas',
+          cargo: 'Evaluadora instruccional',
+          centro: 'Centro de Diseño y Metrología',
+        },
+        {
+          nombre: 'Sergio Arturo Medina Castillo',
+          cargo: 'Evaluador instruccional',
+          centro: 'Centro para la Industria de la Comunicación Gráfica',
+        },
+        {
+          nombre: 'Ana Catalina Córdoba Sus',
+          cargo: 'Asesora metodológica',
+          centro: 'Regional Distrito Capital - Centro de Diseño y Metrología',
+        },
+        {
+          nombre: 'Rafael Neftalí Lizcano Reyes',
+          cargo: 'Responsable Equipo de desarrollo curricular',
+          centro:
+            'Regional Santander - Centro Industrial del Diseño y la Manufactura',
+        },
+        {
+          nombre: 'Julia Isabel Roberto',
+          cargo: 'Correctora de estilo',
+          centro: 'Regional Distrito Capital - Centro de Diseño y Metrología',
         },
       ],
     },

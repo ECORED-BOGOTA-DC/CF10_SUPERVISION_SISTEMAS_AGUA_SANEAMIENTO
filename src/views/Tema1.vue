@@ -8,7 +8,7 @@
       h1 Manejo de actores sociales
     
     .container-100.d-flex.flex-wrap(style="background: linear-gradient(0deg, rgba(255,255,255,1) 0%, rgba(217,245,254,1) 50%, rgba(255,255,255,1) 100%);")
-      img.col-lg-5.mb-4.mb-lg-auto(src="@/assets/curso/temas/tema1/img-1.svg" data-aos="fade-right")
+      img.col-lg-5.mb-4.mb-lg-auto(src="@/assets/curso/temas/tema1/img-1.svg" data-aos="fade-right" alt="Imagen decorativa")
       p.col-lg-7.ps-lg-4(data-aos="fade-left") De acuerdo con la Corporación Autónoma Regional de Cundinamarca CAR (2014), en su documento <em>Guía metodológica y pedagógica</em> como soporte del proceso de educación ambiental, se encuentran los diferentes actores sociales, que son aquellos que se consideran responsables del empoderamiento en sus comunidades y entornos locales, encargados de dirigir y organizar campañas o estrategias ambientales.
         br
         br
@@ -60,14 +60,14 @@
       .col-lg-10.mx-auto
         .tarjeta-avatar-b.mb-2
           .tarjeta-avatar-b__img(style="max-width: 131px; min-width: 131px;")
-            img(src='@/assets/curso/temas/tema1/tj-1.svg' style="max-width: 131px" data-aos="fade-right")
+            img(src='@/assets/curso/temas/tema1/tj-1.svg' style="max-width: 131px" data-aos="fade-right" alt="Imagen decorativa")
           .tarjeta.tarjeta--azul.d-flex.align-items-center.my-auto(style="background-color: #E0F3FF; min-height: 100px")
             .p-4(data-aos="fade-left")
               p.mb-0 <b>Dirigentes de organizaciones comunitarias:</b> (juntas vecinales, clubes deportivos, agrupaciones de mujeres, adultos mayores, jóvenes, etc.).
       .col-lg-10.mx-auto
         .tarjeta-avatar-b.mb-2
           .tarjeta-avatar-b__img(style="max-width: 131px; min-width: 131px;")
-            img(src='@/assets/curso/temas/tema1/tj-2.svg' style="max-width: 131px" data-aos="fade-right")
+            img(src='@/assets/curso/temas/tema1/tj-2.svg' style="max-width: 131px" data-aos="fade-right" alt="Imagen decorativa")
           .tarjeta.tarjeta--azul.d-flex.align-items-center.my-auto(style="background-color: #BBE5FF; min-height: 100px")
             .p-4(data-aos="fade-left")
               p.mb-0 <b>Organizaciones funcionales:</b> usuarios y clubes de madres.
@@ -75,33 +75,33 @@
       .col-lg-10.mx-auto
         .tarjeta-avatar-b.mb-2
           .tarjeta-avatar-b__img(style="max-width: 131px; min-width: 131px;")
-            img(src='@/assets/curso/temas/tema1/tj-3.svg' style="max-width: 131px" data-aos="fade-right")
+            img(src='@/assets/curso/temas/tema1/tj-3.svg' style="max-width: 131px" data-aos="fade-right" alt="Imagen decorativa")
           .tarjeta.tarjeta--azul.d-flex.align-items-center.my-auto(style="background-color: #E0F3FF; min-height: 100px")
             .p-4(data-aos="fade-left")
               p.mb-0 <b>Representantes de instituciones de servicio a la comunidad:</b> docentes de escuelas rurales, policías, bomberos, personal de postas médicas, etc.
       .col-lg-10.mx-auto
         .tarjeta-avatar-b.mb-2
           .tarjeta-avatar-b__img(style="max-width: 131px; min-width: 131px;")
-            img(src='@/assets/curso/temas/tema1/tj-4.svg' style="max-width: 131px" data-aos="fade-right")
+            img(src='@/assets/curso/temas/tema1/tj-4.svg' style="max-width: 131px" data-aos="fade-right" alt="Imagen decorativa")
           .tarjeta.tarjeta--azul.d-flex.align-items-center.my-auto(style="background-color: #BBE5FF; min-height: 100px")
             .p-4(data-aos="fade-left")
               p.mb-0 Líderes locales.
 
     .titulo-edit.mb-5
       h3.mb-0 Actores territoriales
-    p.mb-5 Es importante aclarar que a nivel territorial existe también una clasificación de actores que deben ser conocidos, analizados e identificados, dentro de los cuales se puede destacar de acuerdo con Núñez (s.f.) en su documento Sostenibilidad y actores sociales en la protección del medio ambiente:
+    p.mb-5 Es importante aclarar que a nivel territorial existe también una clasificación de actores que deben ser conocidos, analizados e identificados, dentro de los cuales se puede destacar de acuerdo con Núñez (s.f.) en su documento <em>Sostenibilidad y actores sociales en la protección del medio ambiente</em>:
     .row.mb-5
       .col-lg-10.mx-auto
         .tarjeta-avatar-b.mb-2
           .tarjeta-avatar-b__img(style="max-width: 131px; min-width: 131px;")
-            img(src='@/assets/curso/temas/tema1/tj-5.svg' style="max-width: 131px" data-aos="fade-right")
+            img(src='@/assets/curso/temas/tema1/tj-5.svg' style="max-width: 131px" data-aos="fade-right" alt="Imagen decorativa")
           .tarjeta.tarjeta--azul.d-flex.align-items-center.my-auto(style="background-color: #AFF2F2; min-height: 100px")
             .p-4(data-aos="fade-left")
               p.mb-0 <b>Actor de gobierno local:</b> bien sea alcaldías locales, corporaciones autónomas, gobernaciones, entre otros.
       .col-lg-10.mx-auto
         .tarjeta-avatar-b.mb-2
           .tarjeta-avatar-b__img(style="max-width: 131px; min-width: 131px;")
-            img(src='@/assets/curso/temas/tema1/tj-6.svg' style="max-width: 131px" data-aos="fade-right")
+            img(src='@/assets/curso/temas/tema1/tj-6.svg' style="max-width: 131px" data-aos="fade-right" alt="Imagen decorativa")
           .tarjeta.tarjeta--azul.d-flex.align-items-center.my-auto(style="background-color: #D8FDFD; min-height: 100px")
             .p-4(data-aos="fade-left")
               p.mb-0 <b>Actor empresarial:</b> directivos de las empresas productivas o empleados de empresas.
@@ -109,14 +109,14 @@
       .col-lg-10.mx-auto
         .tarjeta-avatar-b.mb-2
           .tarjeta-avatar-b__img(style="max-width: 131px; min-width: 131px;")
-            img(src='@/assets/curso/temas/tema1/tj-7.svg' style="max-width: 131px" data-aos="fade-right")
+            img(src='@/assets/curso/temas/tema1/tj-7.svg' style="max-width: 131px" data-aos="fade-right" alt="Imagen decorativa")
           .tarjeta.tarjeta--azul.d-flex.align-items-center.my-auto(style="background-color: #AFF2F2; min-height: 100px")
             .p-4(data-aos="fade-left")
               p.mb-0 <b>Actor comunidad:</b> pobladores convocados o interesados.
       .col-lg-10.mx-auto
         .tarjeta-avatar-b.mb-2
           .tarjeta-avatar-b__img(style="max-width: 131px; min-width: 131px;")
-            img(src='@/assets/curso/temas/tema1/tj-8.svg' style="max-width: 131px" data-aos="fade-right")
+            img(src='@/assets/curso/temas/tema1/tj-8.svg' style="max-width: 131px" data-aos="fade-right" alt="Imagen decorativa")
           .tarjeta.tarjeta--azul.d-flex.align-items-center.my-auto(style="background-color: #D8FDFD; min-height: 100px")
             .p-4(data-aos="fade-left")
               p.mb-0 <b>Actor promotor de desarrollo:</b> médicos, maestros, promotores culturales, talleristas, gestores ambientales y sociales.
@@ -173,7 +173,7 @@
         
           .col-md-6
             figure
-              img(src='@/assets/curso/temas/tema1/img-6.svg' data-aos="fade-left")
+              img(src='@/assets/curso/temas/tema1/img-6.svg' data-aos="fade-left" alt="Imagen decorativa")
         .row.align-items-center
           .col-md-6.mb-4.mb-md-0
             h3 Fundamentación
@@ -181,7 +181,7 @@
         
           .col-md-6
             figure
-              img(src='@/assets/curso/temas/tema1/img-7.svg')
+              img(src='@/assets/curso/temas/tema1/img-7.svg' alt="Imagen decorativa")
         .row.align-items-center
           .col-md-6.mb-4.mb-md-0
             h3 Papel del facilitador
@@ -189,7 +189,7 @@
         
           .col-md-6
             figure
-              img(src='@/assets/curso/temas/tema1/img-8.svg')
+              img(src='@/assets/curso/temas/tema1/img-8.svg' alt="Imagen decorativa")
     
     p.mb-5(data-aos="fade-right") El uso de los textos para llevar a cabo actividades de aprendizaje no consiste en una acción individual y aislada, desligada de su entorno actual, sino en una interacción social, A continuación, destacamos las estrategias asociadas a la comprensión oral para el desarrollo de la habilidad analizando sus principales características:
 
@@ -211,14 +211,14 @@
     .d-flex.flex-wrap.mb-5
       .col-lg-5.mb-4.mb-lg-0
         figure
-          img(src='@/assets/curso/temas/tema1/img-9.png' style="max-width: 505px" data-aos="fade-right")
+          img(src='@/assets/curso/temas/tema1/img-9.png' style="max-width: 505px" data-aos="fade-right" alt="Imagen decorativa")
       .col-lg-7.ps-lg-4
         .cajon.color-acento-botones.p-4.mb-4(style="background-color: #98D8D7")
           p.mb-0(data-aos="fade-left") En esta estrategia, de acuerdo con Geifuls (2009) se busca recolectar información general o específica mediante diálogos con individuos (informantes clave), grupos familiares (familias representativas) o grupos enfocados. La técnica de diálogo semiestructurado busca evitar algunos de los efectos negativos de los cuestionarios formales como son: temas cerrados (no hay posibilidad de explorar otros temas), falta de diálogo, falta de adecuación a las percepciones de las personas. “Su aplicación es muy amplia, estudios sociales generales, estudios específicos, estudios de caso, comprobación de información de otras fuentes, etc.” (p. 25). 
         p La diferencia entre un diálogo y una entrevista es que en el primero se busca un intercambio y la fluidez de este, lo que puede generar mayor indagación, aunque no esté planeado.
     p.mb-5(data-aos="fade-right") Para llevarlo a cabo se debe tener en cuenta:
 
-    img.mx-auto.mb-5(src='@/assets/curso/temas/tema1/img-10.svg' style="max-width: 821px" data-aos="fade-left")
+    img.mx-auto.mb-5(src='@/assets/curso/temas/tema1/img-10.svg' style="max-width: 821px" data-aos="fade-left" alt="Gráfico que explica el proceso que se debe tener en cuenta para tener un diálogo semiestructurado. Establecer los puntos fundamentales que quieren aclarar. Estos temas no son preguntas, que van a servir de guía para recordar los temas, pueden anotarlos si es posible. Determinar cómo va a hacer la selección de personasy/o grupos a entrevistar. La selección es muy importante para evitar al máximo sesgos. Realización de charlas. Analizar los resultados. La información obtrenida debe ser comparada con otras fuentes: otras entrevistas, resultados, de otros jercicios sobre el mismo tema. Esto es la triangulación.")
 
     .titulo-edit.mb-5
       h3 Diálogo con informantes clave
@@ -227,7 +227,7 @@
       p.mb-5(data-aos="fade-right") No es un método participativo propiamente dicho; pero puede ser imprescindible para preparar ejercicios de grupo con la comunidad antes de la intervención y también para completar otros ejercicios o chequear ciertas informaciones dialogando con personas bien informadas sobre la comunidad, se puede obtener en forma rápida, información pertinente para orientar el trabajo. La buena selección de los informantes es fundamental para la validez de la información.
       .col-lg-5.mb-4.mb-lg-0
         figure
-          img(src='@/assets/curso/temas/tema1/img-11.png' style="max-width: 505px" data-aos="fade-right")
+          img(src='@/assets/curso/temas/tema1/img-11.png' style="max-width: 505px" data-aos="fade-right" alt="Imagen decorativa")
       .col-lg-7.ps-lg-4(data-aos="fade-left")
         p.mb-4 Algunos ejemplos de aplicación:
         ol.lista-ol--cuadro.lista-ol--separador
@@ -267,7 +267,7 @@
             | Cuando se necesita comprobar la pertinencia de la información sobre un tema específico, con la interacción entre los diferentes miembros de la familia.
       .col-lg-5.mb-4.mb-lg-0
         figure
-          img(src='@/assets/curso/temas/tema1/img-12.png' style="max-width: 505px" data-aos="fade-left")
+          img(src='@/assets/curso/temas/tema1/img-12.png' style="max-width: 505px" data-aos="fade-left" alt="Imagen decorativa")
 
     .titulo-edit.mb-5
       h3 Diálogo con grupos de trabajo
@@ -276,7 +276,7 @@
       p.mb-5(data-aos="fade-right") Es una aplicación grupal de la técnica de diálogo semiestructurado, que de acuerdo con Geifuls (2009), permite obtener información pertinente, en forma rápida, trabajando con un grupo reducido de gente directamente involucrada en la problemática estudiada.
       .col-lg-5.mb-4.mb-lg-0
         figure
-          img(src='@/assets/curso/temas/tema1/img-13.png' style="max-width: 505px" data-aos="fade-right")
+          img(src='@/assets/curso/temas/tema1/img-13.png' style="max-width: 505px" data-aos="fade-right" alt="Imagen decorativa")
       .col-lg-7.ps-lg-4(data-aos="fade-left")
         p.mb-4 Algunos ejemplos de aplicación son:
         ol.lista-ol--cuadro.lista-ol--separador
@@ -293,7 +293,7 @@
       h3 Grupos focales
 
     .img-texto-offset.mb-5
-      img.mb-3.mb-lg-0.d-none.d-md-flex(src="@/assets/curso/temas/tema1/img-14.jpg")
+      img.mb-3.mb-lg-0.d-none.d-md-flex(src="@/assets/curso/temas/tema1/img-14.jpg" alt="Imagen decorativa")
       .container-offset.col-lg-10.mx-auto
         p(data-aos="fade-right") Teniendo en cuenta a Zabaleta (2005) los grupos focales son un método efectivo de recolección de información cualitativa, en el cual uno o dos investigadores y varios participantes se reúnen en una sesión grupal para discutir un tema, las sesiones generalmente son grabadas en video para facilitar el análisis posterior de la información. Además, están dirigidas por un moderador y un relator, que conducen la discusión con los participantes a través de preguntas abiertas, es decir, preguntas que detonan reflexiones que van más allá de un “sí” o un “no”.
 
@@ -314,7 +314,7 @@
     .d-flex.flex-wrap.align-items-center.mb-5
       .col-lg-5.mb-4.mb-lg-0
         figure
-          img(src='@/assets/curso/temas/tema1/img-15.svg' style="max-width: 505px" data-aos="fade-right")
+          img(src='@/assets/curso/temas/tema1/img-15.svg' style="max-width: 505px" data-aos="fade-right" alt="Imagen decorativa")
       .col-lg-7.ps-lg-4
         p.mb-4(data-aos="fade-left") Comprender lo que abarca la comunicación ambiental puede ser algo complejo debido a que hay que tener en cuenta diferentes campos, los consultores educativos ambientales en su documento <em>Plan de comunicación ambiental para la conservación de los arrecifes de coral de Puerto Rico</em> manifiestan que establecer una definición del concepto comunicación ambiental es difícil precisamente por la amplitud de su alcance y las múltiples facetas que incluye; pero en esos elementos está el objetivo principal de fomentar en los ciudadanos el entendimiento de los procesos que ocurren en la naturaleza.
 
@@ -331,7 +331,7 @@
     .d-flex.flex-wrap.align-items-start.mb-5
       .col-lg-4.mb-4.mb-lg-0
         figure
-          img(src='@/assets/curso/temas/tema1/img-16.svg' style="max-width: 400px")
+          img(src='@/assets/curso/temas/tema1/img-16.svg' style="max-width: 400px" alt="Imagen decorativa")
       .col-lg-8.ps-lg-4
         AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta tarjeta--azul")
           .row(titulo="Carteles" data-aos="fade-left")
@@ -356,15 +356,15 @@
       p.mb-0(data-aos="fade-right") De acuerdo con el <em>Sumario sensibilización ambiental</em> de la red de autoridades ambientales, el objetivo de la sensibilización es implicar a los ciudadanos en las actividades ambientales y modificar sus comportamientos mediante la capacitación para la sostenibilidad ambiental.   
     p.mb-5 Para este eje se prevén dos medidas específicas: 
     
-    img.mb-5.mb-md-auto.d-none.d-md-flex.mx-auto(src='@/assets/curso/temas/tema1/img-18.svg' style="max-width: 820px" data-aos="fade-right")
-    img.mb-5.mb-md-auto.d-flex.d-md-none.mx-auto(src='@/assets/curso/temas/tema1/img-18-movil.svg' data-aos="fade-right")
+    img.mb-5.mb-md-auto.d-none.d-md-flex.mx-auto(src='@/assets/curso/temas/tema1/img-18.svg' style="max-width: 820px" data-aos="fade-right" alt="Imagen decorativa")
+    img.mb-5.mb-md-auto.d-flex.d-md-none.mx-auto(src='@/assets/curso/temas/tema1/img-18-movil.svg' data-aos="fade-right" alt="Imagen decorativa")
 
     p.mb-5(data-aos="fade-right") Si bien es muy importante la responsabilidad que deben asumir las instituciones en la protección y mejora del medio ambiente, es también muy necesaria la labor que la sociedad puede realizar. En este sentido, el primer paso para conseguir desarrollar en el ciudadano conductas respetuosas con el medio ambiente es dar a conocer la situación actual del problema, facilitando información sobre las contribuciones para la preservación del medio ambiente desde la responsabilidad compartida, es decir, sensibilizar la ciudadanía. 
 
     .container-100.d-flex.flex-wrap.align-items-center.mb-5(style="background: linear-gradient(0deg, rgba(255,255,255,1) 0%, #E8F3FD 50%, rgba(255,255,255,1) 100%);")
       .col-lg-4.mb-4.mb-lg-0
         figure
-          img(src='@/assets/curso/temas/tema1/img-19.png' style="max-width: 400px" data-aos="fade-right")
+          img(src='@/assets/curso/temas/tema1/img-19.png' style="max-width: 400px" data-aos="fade-right" alt="Imagen decorativa")
       .col-lg-8.ps-lg-4
         p.mb-4(data-aos="fade-left") El consumo racional de los recursos naturales pasa por una concienciación previa, que ayuda a cambiar las pautas de comportamiento entre la ciudadanía, por la asimilación de un medio ambiente que concierne a todos y que afecta a todos los sectores profesionales. 
           br
@@ -389,10 +389,10 @@
 
       .col-lg-4.mb-4.mb-lg-0
         figure
-          img(src='@/assets/curso/temas/tema1/img-20.png' style="max-width: 400px" data-aos="fade-left")
+          img(src='@/assets/curso/temas/tema1/img-20.png' style="max-width: 400px" data-aos="fade-left" alt="Imagen decorativa")
 
     .d-flex.flex-wrap.mb-5
-      img.col-xl-4.mb-4.mb-xl-auto.mx-auto(src='@/assets/curso/temas/tema1/img-21.svg' style="max-width: 387px" data-aos="fade-right")
+      img.col-xl-4.mb-4.mb-xl-auto.mx-auto(src='@/assets/curso/temas/tema1/img-21.svg' style="max-width: 387px" data-aos="fade-right" alt="Imagen decorativa")
       TabsA.col-xl-8.ps-xl-4.color-acento-contenido.mb-5.tabs-edit(data-aos="fade-left")
         .tarjeta.p-4(style="background-color: #F6F6F6" titulo="Desarrollo de un módulo")
           h3 Desarrollo de un módulo de sensibilización ambiental general

@@ -8,7 +8,7 @@
     .row.justify-content-center
       .col-lg-10.mb-5
         figure
-          img(src="@/assets/curso/temas/sintesis.svg", alt="alt")
+          img(src="@/assets/curso/temas/sintesis.svg", alt="Esquema gráfico que resume lo abordado en el componente formativo, explicando en qué consisten las orientaciones a las comunidades, incluyendo a su vez cuáles son los actores sociales involucrados, los elementos pedagógicos a tener en cuenta, los indicadores, las estrategias y las metodologías existentes para este proceso.")
       .col-auto
         a.anexo.mb-5(:href="obtenerLink('/downloads/Sintesis.pdf')" target="_blank")
           .anexo__icono
