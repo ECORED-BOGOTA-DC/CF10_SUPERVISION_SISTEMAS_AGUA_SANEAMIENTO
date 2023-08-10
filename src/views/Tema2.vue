@@ -177,7 +177,7 @@
       p.mb-0(data-aos="fade-left") <b>Importante:</b> la legalidad de las veedurías se verifica con la inscripción ante la Personería o ante la Cámara de Comercio, para este caso la veeduría se inscribe como entidad sin ánimo de lucro y se constituye a través de un acta de asamblea de constitución (Ley 850, 2003).
 
     .img-texto-offset.mb-5
-      img.mb-3.mb-lg-0.d-none.d-md-flex(src="@/assets/curso/temas/tema2/img-17.jpg" alt="Imagen decorativa")
+      img.mb-3.mb-lg-0.d-none.d-md-flex(src="@/assets/curso/temas/tema2/img-17.png" alt="Imagen decorativa")
       .container-offset.col-lg-10.mx-auto
         p(data-aos="fade-right") Ahora bien, los mecanismos de participación ciudadana tienen dos orígenes: popular o de autoridad pública. Entre los mecanismos de origen popular se encuentran la iniciativa popular legislativa y normativa ante las corporaciones públicas, el cabildo abierto y la revocatoria del mandato; por otro lado, de origen en autoridad pública están el plebiscito que puede tener origen en la autoridad pública o popular, el referendo y la consulta popular (Instituto Distrital de la Participación y Acción Comunal, 2007).
 

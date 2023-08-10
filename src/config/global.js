@@ -275,43 +275,45 @@ export default {
         {
           nombre: 'Xiomara Becerra Aldana',
           cargo: 'Instructora ambiental',
-          centro: 'Centro de Gestión Industrial',
+          centro: 'Centro de Gestión Industrial - Regional Distrito Capital',
         },
         {
           nombre: 'Jesús Ricardo Arias Munévar',
           cargo: 'Instructora ambiental',
-          centro: 'Centro de Gestión Industrial',
+          centro: 'Centro de Gestión Industrial - Regional Distrito Capital',
         },
         {
           nombre: 'Javier Ricardo Luna Pineda',
           cargo: 'Diseñador instruccional',
-          centro: 'Centro para la Industria de la Comunicación Gráfica',
+          centro:
+            'Centro para la Industria de la Comunicación Gráfica - Regional Distrito Capital',
         },
         {
           nombre: 'Silvia Milena Sequeda Cárdenas',
           cargo: 'Evaluadora instruccional',
-          centro: 'Centro de Diseño y Metrología',
+          centro: 'Centro de Diseño y Metrología - Regional Distrito Capital',
         },
         {
           nombre: 'Sergio Arturo Medina Castillo',
           cargo: 'Evaluador instruccional',
-          centro: 'Centro para la Industria de la Comunicación Gráfica',
+          centro:
+            'Centro para la Industria de la Comunicación Gráfica - Regional Distrito Capital',
         },
         {
           nombre: 'Ana Catalina Córdoba Sus',
           cargo: 'Asesora metodológica',
-          centro: 'Regional Distrito Capital - Centro de Diseño y Metrología',
+          centro: 'Centro de Diseño y Metrología - Regional Distrito Capital',
         },
         {
           nombre: 'Rafael Neftalí Lizcano Reyes',
           cargo: 'Responsable Equipo de desarrollo curricular',
           centro:
-            'Regional Santander - Centro Industrial del Diseño y la Manufactura',
+            'Centro Industrial del Diseño y la Manufactura - Regional Santander',
         },
         {
           nombre: 'Julia Isabel Roberto',
           cargo: 'Correctora de estilo',
-          centro: 'Regional Distrito Capital - Centro de Diseño y Metrología',
+          centro: 'Centro de Diseño y Metrología - Regional Distrito Capital',
         },
       ],
     },
